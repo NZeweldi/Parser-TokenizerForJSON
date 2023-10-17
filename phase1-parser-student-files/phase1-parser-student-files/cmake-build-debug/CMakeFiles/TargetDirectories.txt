@@ -1,0 +1,3 @@
+C:/Users/NZ/Downloads/phase1-parser-student-files/phase1-parser-student-files/cmake-build-debug/CMakeFiles/parser.x.dir
+C:/Users/NZ/Downloads/phase1-parser-student-files/phase1-parser-student-files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NZ/Downloads/phase1-parser-student-files/phase1-parser-student-files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

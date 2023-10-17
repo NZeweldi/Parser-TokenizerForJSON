@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/parser.x.dir/main_phase1.cpp.o -c /Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/main_phase1.cpp",
+  "file": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/main_phase1.cpp",
+  "output": "CMakeFiles/parser.x.dir/main_phase1.cpp.o"
+},
+{
+  "directory": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/parser.x.dir/Token.cpp.o -c /Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Token.cpp",
+  "file": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Token.cpp",
+  "output": "CMakeFiles/parser.x.dir/Token.cpp.o"
+},
+{
+  "directory": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/parser.x.dir/Tokenizer.cpp.o -c /Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Tokenizer.cpp",
+  "file": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Tokenizer.cpp",
+  "output": "CMakeFiles/parser.x.dir/Tokenizer.cpp.o"
+},
+{
+  "directory": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/parser.x.dir/Parser.cpp.o -c /Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Parser.cpp",
+  "file": "/Users/rivoire/Dropbox/DropboxDocs/cs315_datastructs_2023fa/cs315_2023fa_projects/cs315_2023fa_p4_files/phase1-parser/Parser.cpp",
+  "output": "CMakeFiles/parser.x.dir/Parser.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\parser.x.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe qc CMakeFiles\parser.x.dir/objects.a @CMakeFiles\parser.x.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\C__~1.EXE -g -Wl,--whole-archive CMakeFiles\parser.x.dir/objects.a -Wl,--no-whole-archive -o parser.x.exe -Wl,--out-implib,libparser.x.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\parser.x.dir\linkLibs.rsp

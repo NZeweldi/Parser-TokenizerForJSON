@@ -1,0 +1,65 @@
+{
+    "MATH 316": ["MATH 220"],
+    "MATH 310": ["MATH 161"],
+    "MATH 161": [],
+    "MATH 381": [ "MATH 265" ],
+    "MATH 131B": ["MATH 131A"],
+
+    "MATH 345": ["MATH 261"],
+    "MATH 352": ["MATH 241"],
+    "MATH 330": ["MATH 161"],
+    "MATH 440": ["MATH 340"],
+    "MATH 460": ["MATH 340"],
+
+    "MATH 250": ["MATH 161"],
+    "MATH 416": ["MATH 220"],
+    "MATH 150A": [],
+    "MATH 131A": [],
+    "MATH 430": ["MATH 241"],
+
+    "MATH 465": ["MATH 222" ?],
+    "MATH 222": ["MATH 161"],
+    "MATH 300A": [],
+    "MATH 420": ["MATH 320"],
+    "MATH 303": [ "MATH 161" ],
+
+    "MATH 241": ["MATH 211"],
+    "MATH 308": ["MATH 220"],
+    "MATH 320": ["MATH 220"],
+    "MATH 211": ["MATH 161"],
+    "MATH 306": ["MATH 220"],
+
+    "MATH 445": ["MATH 345"],
+    "MATH 131": [],
+    "MATH 200": [],
+    "MATH 367": [ "MATH 165" ],
+    "MATH 322": ["MATH 220"],
+
+    "MATH 100": [],
+    "MATH 180": [ "MATH 161" ],
+    "MATH 111": [],
+    "MATH 418": ["MATH 340"], 
+    "MATH 150": [],
+
+    "MATH 160": [],
+    "MATH 141": [],
+    "MATH 103": [],
+    "MATH 220": ["MATH 161"],
+    "MATH 345E": ["MATH 211" ],
+
+    "MATH 390": ["MATH 161"],
+    "MATH 431": ["MATH 241", "MATH 180"],
+    "MATH 165": [],
+    "MATH 104": [],
+    "MATH 467": ["MATH 367"],
+
+    "MATH 300B": ["MATH 300A"],
+    "MATH 441": ["MATH 345", "MATH 222"],
+    "MATH 142": ["MATH 160"],
+    "MATH 261": ["MATH 211", "MATH 241"],
+    "MATH 195": [],
+
+    "MATH 340": [ "MATH 220", "MATH 241" ],
+    "MATH 265": ["MATH 161"],
+    "MATH 105": []
+}
